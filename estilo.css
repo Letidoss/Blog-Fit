@@ -8,6 +8,7 @@ font-size: 16px;
 margin: 0;
 padding: 0;
 }
+
 header{
 width: 70%;
 padding: 1cm;
@@ -32,8 +33,16 @@ margin: 0 auto;
 {
  font-size: 25px;   
 }
+
 #logo{
     width: 25%;
     text-align: left;
+}
 
+footer{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0 auto;
 }
