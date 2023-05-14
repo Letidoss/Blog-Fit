@@ -25,3 +25,10 @@ margin: 0 auto;
  font-size: 25px;   
 }
 
+footer{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0 auto;
+}
